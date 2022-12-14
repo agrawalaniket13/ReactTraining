@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <script>
+            var num=prompt("enter a number");
+            var temp=num;
+            var sum=0;
+            while(temp>0){
+                var digit=temp%10;
+                sum=sum+(digit**3);
+                temp=parseInt(temp/10);
+            }
+            if(sum==num){
+                document.write("yes it is armstrong number");
+            }
+            else{
+                document.write("no it is not armstrong number");
+            }
+        </script>
+    </head>
+    <body></body>
+</html>
