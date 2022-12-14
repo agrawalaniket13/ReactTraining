@@ -1,0 +1,7 @@
+1) create notes
+
+Project 1: Build a Notes Taking Website Using Pure JavaScript | JavaScript Tutorial In Hindi #22 - YouTube
+
+2) create calculator
+
+Project 7: Creating a Calculator using HTML, CSS & JS | JavaScript Tutorial In Hindi #65 - YouTube

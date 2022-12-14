@@ -1,0 +1,64 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+h3{
+    text-align: center;
+    padding: 10px;
+}
+form{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    width: 50%;
+    margin: auto;
+}
+label{
+    padding: 10px;
+}
+input{
+    border-radius: 10px;
+    padding: 10px;
+    margin: 1;
+}
+textarea{
+    border-radius: 10px;
+    padding: 10px;
+    margin: 1;
+}
+form button{
+    border-radius: 10px;
+    padding: 10px;
+}
+.notes-container{
+    width: 50%;
+    margin: auto;
+}
+ul{
+    display: flex;
+    flex-direction: column;
+    list-style-type: none;
+    justify-content: center;
+    align-items: center;
+}
+li{
+    background: white;
+    position: relative;
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    box-shadow: 5px 5px 10px #ccc;
+    width: 50%;
+    height: 120px;
+    padding: 10px;
+}
+li h6{
+    margin: auto;
+    font-size: 26px;
+    padding: 20px;
+}
+li p{
+    margin: auto;
+    font-size: 20px;
+    padding: 20px;
+}
