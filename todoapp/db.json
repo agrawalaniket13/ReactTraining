@@ -1,0 +1,49 @@
+{
+  "messages": [
+    {
+      "id": 1,
+      "message": "you are doing good"
+    },
+    {
+      "id": 2,
+      "message": "stand in front of the mirror to see your best friend"
+    },
+    {
+      "id": 3,
+      "message": "today I leave beind all the past traumas"
+    },
+    {
+      "id": 4,
+      "message": "I am in the best of my energy today"
+    },
+    {
+      "id": 5,
+      "message": "I greet people with care and affection"
+    }
+  ],
+  "todos": [
+    {
+      "task": "learn react",
+      "prerequisites": "javascriptttt",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "task": "learn mean",
+      "prerequisites": "javascript",
+      "isDone": false
+    },
+    {
+      "id": 3,
+      "task": "learn devops",
+      "prerequisites": "javascript",
+      "isDone": false
+    },
+    {
+      "id": 4,
+      "task": "learn cloud",
+      "prerequisites": "javascript",
+      "isDone": false
+    }
+  ]
+}
