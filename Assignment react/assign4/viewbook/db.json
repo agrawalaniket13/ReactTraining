@@ -1,0 +1,18 @@
+{
+    "books":[
+        {
+            "title":"origins",
+            "author":"Dan Brown",
+            "genre":"Medical thriller",
+            "summary":"The fifth installment in the robert langdon series",
+            "id":1001
+        },
+        {
+            "title":"crisis",
+            "author":"Robin cook",
+            "genre":"Mystery thriller",
+            "summary":"The fifth installment in the robert",
+            "id":1002
+        }
+    ]
+}

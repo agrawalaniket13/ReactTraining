@@ -1,0 +1,23 @@
+<html>
+    <head>
+        <script>
+            function EmailCheck(ema) 
+            {
+                const emChe = /^\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}$/
+    
+                if (emChe.test(ema)) 
+                {
+                    document.write(`The email address is valid  : ${ema} <br>`);
+                }
+                else 
+                {
+                    document.write('The email address is not valid');
+                }
+            }
+            var a=prompt("enter the email id");
+            EmailCheck(a);
+
+        </script>
+    </head>
+    <body></body>
+</html>
